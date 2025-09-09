@@ -1,9 +1,19 @@
-# License-plate-detection
-This project is a Vehicle License Plate Detection system that can automatically detect and read license plates from images or videos.
 # Vehicle License Plate Detection and Recognition
 
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.8-brightgreen)
+![EasyOCR](https://img.shields.io/badge/EasyOCR-1.6-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Colab](https://img.shields.io/badge/Google_Colab-Notebook-orange)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>
+
+---
+
 ## Description
-This project is a **Vehicle License Plate Detection and Recognition system** that automatically detects and reads license plates from images or videos. It combines **object detection** and **optical character recognition (OCR)** to locate license plates and extract text accurately.
+This project is a **Vehicle License Plate Detection and Recognition system** that automatically detects and reads license plates from images or videos. It combines **object detection** (YOLOv8/ANPR) and **optical character recognition (OCR)** to locate license plates and extract text accurately.
 
 It can be used for applications such as **traffic monitoring, parking management, toll collection, and security systems**.
 
